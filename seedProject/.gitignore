@@ -1,0 +1,6 @@
+typings/**
+node_modules
+**/*npm-debug.log.*
+build
+_test-output
+_temp
